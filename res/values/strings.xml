@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCD</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt1_string">Calculate</string>
+    <string name="bt2_string">Cancel</string>
+    <string name="title_activity_display_message">Greate Common Divisor</string>
+    <string name="text1">Insert first number</string>
+    <string name="text2">Insert seond number</string>
+    <string name="gcd_string">The greater common divisor is:  </string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="back">Back</string>
+	<string name="editText1"> © Simone Baldelli</string> 
+	<string name="credits">Credits</string>
+</resources>

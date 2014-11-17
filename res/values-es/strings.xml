@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">GCD</string>
+    <string name="action_settings">Impostaciones</string>
+    <string name="bt1_string">Calcular</string>
+    <string name="bt2_string">Cancellar</string>
+    <string name="text1">Insertar el primero número </string>
+    <string name="text2">Insertar el segundo número</string>
+    <string name="title_activity_display_message">Mayor divisor común</string>
+    <string name="gcd_string">La mayor divisor común es:  </string>
+    <string name="exit">Uscir</string>
+</resources>
